@@ -33,6 +33,7 @@ class Scraper
 
     def make_courses
       self.get_courses.each do |course|
+        
       end
     end
 end
